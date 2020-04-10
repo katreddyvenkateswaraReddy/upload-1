@@ -1,6 +1,4 @@
 # upload-1
-#operating system
-question-1 Design a scheduling program that is capable of scheduling many processes that comes inat some time interval and are allocated the CPU not more than 10 time units. CPU mustschedule processes having short execution time first. CPU is idle for 3 time units anddoes not entertain any process prior this time. Scheduler must maintain a queue thatkeeps the order of execution of all the processes. Compute average waiting andturnaround time.
 #include<stdio.h> 
 int main() 
 { 
